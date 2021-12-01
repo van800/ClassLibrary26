@@ -6,7 +6,7 @@ namespace ClassLibrary26
     {
         public static void Test()
         {
-            
+            ClassLibrary1.ClassTest.Test();
         }
     }    
 }
